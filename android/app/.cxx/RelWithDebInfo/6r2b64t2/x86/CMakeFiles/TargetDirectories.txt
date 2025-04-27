@@ -1,0 +1,2 @@
+/home/salah/Downloads/marketi-main/android/app/.cxx/RelWithDebInfo/6r2b64t2/x86/CMakeFiles/rebuild_cache.dir
+/home/salah/Downloads/marketi-main/android/app/.cxx/RelWithDebInfo/6r2b64t2/x86/CMakeFiles/edit_cache.dir
